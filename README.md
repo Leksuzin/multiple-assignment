@@ -1,2 +1,4 @@
-# multiple-assignment
-multiple-assignment
+## multiple-assignment 
+Very easy program to demonstrating multiple assignment.
+## Technologies
+C++
